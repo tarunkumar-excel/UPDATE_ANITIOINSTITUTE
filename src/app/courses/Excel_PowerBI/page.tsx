@@ -1,0 +1,1 @@
+export default function Page(){ return <div>Certificate In Excel Power BI</div> }
