@@ -1,3 +1,749 @@
 {
-  "pages": {}
+  "pages": {
+    "/not-found": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/app/not-found-706d8c548ad17683.js"
+    ],
+    "/_not-found/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/_not-found/page-182e786a862b1d98.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/css/4a81a66b226cdf16.css",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/9973-5ec34816a7832366.js",
+      "static/chunks/app/layout-c9f36aad79d5ca88.js"
+    ],
+    "/courses/2_d_animation/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/2_d_animation/page-55e9d12f3050afa3.js"
+    ],
+    "/courses/Excel-VBA/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/Excel-VBA/page-8cb4411f057bdce0.js"
+    ],
+    "/courses/Excel_PowerBI/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/Excel_PowerBI/page-590c48b7d05d7b97.js"
+    ],
+    "/courses/3_d_animation/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/3_d_animation/page-06a3b9c0bf57478c.js"
+    ],
+    "/courses/[slug]/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/[slug]/page-35bc1d7f7a8ff2c3.js"
+    ],
+    "/courses/adca_course/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/adca_course/page-8385157c1bed3a6f.js"
+    ],
+    "/courses/adobe_premiere_pro_course/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/adobe_premiere_pro_course/page-1a2ffa262ab59e47.js"
+    ],
+    "/courses/adobe_after_effects_course/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/adobe_after_effects_course/page-19c12eb1a123d9db.js"
+    ],
+    "/courses/advertising_application_with_preview/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/advertising_application_with_preview/page-6ac71c91a4403118.js"
+    ],
+    "/courses/advanced_excel_mis_reporting_course/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/advanced_excel_mis_reporting_course/page-36e611093b43e638.js"
+    ],
+    "/contact/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/contact/page-fca937ba7a111a68.js"
+    ],
+    "/courses/architectural_visualization/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/architectural_visualization/page-e2b8409dbf8042dd.js"
+    ],
+    "/courses/autocad_designing/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/autocad_designing/page-bfb2f70a0bb660c9.js"
+    ],
+    "/courses/bcc_course/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/bcc_course/page-9f4f0d20df2fd7ae.js"
+    ],
+    "/courses/blender_animations/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/blender_animations/page-b5e484e11304c4b4.js"
+    ],
+    "/courses/brand_management/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/brand_management/page-48cc992c1ad99308.js"
+    ],
+    "/courses/c_cpp_programming/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/c_cpp_programming/page-247fab5e007a6495.js"
+    ],
+    "/courses/dca/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/dca/page-17c0d830d920d17d.js"
+    ],
+    "/courses/data_analytics/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/data_analytics/page-4b027d2c7f1af15a.js"
+    ],
+    "/courses/digital_marketing/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/digital_marketing/page-9c0e222557579255.js"
+    ],
+    "/courses/ecommerce_marketing/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/ecommerce_marketing/page-c5234ccb0792cf1d.js"
+    ],
+    "/courses/fashion_designing/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/fashion_designing/page-746a0f3f520f4ed9.js"
+    ],
+    "/courses/excel/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/excel/page-6cfb6a281900976a.js"
+    ],
+    "/courses/full_stack_web_development/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/full_stack_web_development/page-094ae98094f8841c.js"
+    ],
+    "/courses/influencer_marketing/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/influencer_marketing/page-6079a232f54a32e7.js"
+    ],
+    "/courses/graphic_designing/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/graphic_designing/page-497c0b3f31cbd5e5.js"
+    ],
+    "/courses/interior_designing/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/interior_designing/page-61ccd6212482880d.js"
+    ],
+    "/courses/marketing_analytics/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/marketing_analytics/page-e64a896029c3bdc5.js"
+    ],
+    "/courses/marketing_automation/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/marketing_automation/page-656c924992c84350.js"
+    ],
+    "/courses/motion_graphics/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/motion_graphics/page-f8bbab6e830a0e77.js"
+    ],
+    "/courses/mutual_fund_advisory/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/mutual_fund_advisory/page-10f668c2f3e808d9.js"
+    ],
+    "/courses/office_management/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/office_management/page-631cf497804b9268.js"
+    ],
+    "/courses/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/app/courses/page-5bc347f29fd00c8f.js"
+    ],
+    "/courses/product_visualization/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/product_visualization/page-3016f045702e5246.js"
+    ],
+    "/courses/python_programming_certification/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/python_programming_certification/page-007f4086f1499878.js"
+    ],
+    "/courses/vfx_multimedia_course/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/vfx_multimedia_course/page-ec4bbc15a25fe39a.js"
+    ],
+    "/courses/web_design_course/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/web_design_course/page-df31b2f5fadc6a84.js"
+    ],
+    "/courses/video_editing_course/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/video_editing_course/page-3a6865af788e4598.js"
+    ],
+    "/courses/youtube_marketing_course/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/youtube_marketing_course/page-829701d8b9cdb355.js"
+    ],
+    "/exam/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/app/exam/page-b49efe94992cfe4c.js"
+    ],
+    "/payment/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/payment/page-a2c22454a8892560.js"
+    ],
+    "/results/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/results/page-94cd1639a75ef1ac.js"
+    ],
+    "/courses/Advanced_Excel/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/Advanced_Excel/page-9671223553504176.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/app/about/page-2f845e6d08c4ca6a.js"
+    ],
+    "/courses/MS-OFFICE/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/MS-OFFICE/page-19c01ec6699d9e0d.js"
+    ],
+    "/courses/artificial-intelligence/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/artificial-intelligence/page-2bf03f761c3e15a2.js"
+    ],
+    "/courses/affiliate_marketing/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/affiliate_marketing/page-d64a4fe2bd732289.js"
+    ],
+    "/courses/banking-finance/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/banking-finance/page-cf55970049b656ef.js"
+    ],
+    "/courses/business-analytics/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/business-analytics/page-e05442fe2089a299.js"
+    ],
+    "/courses/cost-accounting/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/cost-accounting/page-a0ca5e4be94d2eaa.js"
+    ],
+    "/courses/certificate-in-ms-office/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/app/courses/certificate-in-ms-office/page-643a8ad5b3199e06.js"
+    ],
+    "/courses/content-marketing/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/content-marketing/page-5d9accf62998a31f.js"
+    ],
+    "/courses/data_analysis_python_excel/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/data_analysis_python_excel/page-d77bbfa838538146.js"
+    ],
+    "/courses/data-entry/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/data-entry/page-c89cc0bf415b5840.js"
+    ],
+    "/courses/digital-marketing/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/digital-marketing/page-387ef08064a0455d.js"
+    ],
+    "/courses/diploma-excel-data-analysis/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/diploma-excel-data-analysis/page-d853fb5922d8cfd0.js"
+    ],
+    "/courses/excel-mis-report/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/excel-mis-report/page-a1056b52647356f1.js"
+    ],
+    "/courses/data-analytics/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/data-analytics/page-82f7d1f6f0699075.js"
+    ],
+    "/courses/diploma-office-management/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/diploma-office-management/page-50715b46b96eff50.js"
+    ],
+    "/courses/google-ads/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/google-ads/page-65e2e37e963b2c3c.js"
+    ],
+    "/courses/financial-accounting/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/financial-accounting/page-cccfeca08f0a2f88.js"
+    ],
+    "/courses/financial-modeling/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/financial-modeling/page-01c07b32a0be74d7.js"
+    ],
+    "/courses/full-stack-development/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/full-stack-development/page-b813136637ef4088.js"
+    ],
+    "/courses/email_marketing/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/email_marketing/page-b823d59da05535c8.js"
+    ],
+    "/courses/google-office/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/google-office/page-e6f143ee3a9b6515.js"
+    ],
+    "/courses/investment-banking/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/investment-banking/page-b8150919ee0a417c.js"
+    ],
+    "/courses/graphic_designing_photoshop_coreldraw/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/graphic_designing_photoshop_coreldraw/page-2ae6d2165f7513ec.js"
+    ],
+    "/courses/international-accounting/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/international-accounting/page-404f6bcdd4c5b24d.js"
+    ],
+    "/courses/libra-office/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/app/courses/libra-office/page-797fb03ae2f6d93f.js"
+    ],
+    "/courses/meta-ads/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/meta-ads/page-425d131eab92ae72.js"
+    ],
+    "/courses/payroll-management/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/payroll-management/page-3b497bf22e2cced9.js"
+    ],
+    "/courses/power-bi/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/power-bi/page-d5441d31e2c8f90a.js"
+    ],
+    "/courses/performance-marketing/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/performance-marketing/page-5c8c069b58afb0b2.js"
+    ],
+    "/courses/professional-diploma-excel-data-analysis/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/professional-diploma-excel-data-analysis/page-29c70cd34e8d33ec.js"
+    ],
+    "/courses/prompt-engineering/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/prompt-engineering/page-7b35118955a9b2d6.js"
+    ],
+    "/courses/seo-course/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/seo-course/page-a72f97de1c9ae1c7.js"
+    ],
+    "/courses/sap-fico/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/sap-fico/page-2f91bce9668ca775.js"
+    ],
+    "/courses/python-data-science/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/python-data-science/page-4daffce6dcd69502.js"
+    ],
+    "/courses/social-media-marketing/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/social-media-marketing/page-513475cf37cbc057.js"
+    ],
+    "/courses/sql-data-analytics/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/sql-data-analytics/page-8f122efaf26c049d.js"
+    ],
+    "/courses/professional-diploma-data-analyst/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/professional-diploma-data-analyst/page-b5e3e1e85048285c.js"
+    ],
+    "/courses/software-windows-installation-page/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/software-windows-installation-page/page-111195829df62007.js"
+    ],
+    "/courses/tableau/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/tableau/page-965daac072668dea.js"
+    ],
+    "/courses/stock-market-trading/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/stock-market-trading/page-ac58d07c9f8011f6.js"
+    ],
+    "/courses/skill_development_job_oriented_training/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/skill_development_job_oriented_training/page-19f9bdefdec0189b.js"
+    ],
+    "/courses/tally-prime-gst/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/tally-prime-gst/page-db8c47351caaa807.js"
+    ],
+    "/courses/tally-erp9-prime/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/tally-erp9-prime/page-185130d7e9b6c778.js"
+    ],
+    "/courses/tally_prime_gst_accounting/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/courses/tally_prime_gst_accounting/page-7c166bd3f5313f3c.js"
+    ],
+    "/courses/technical-analysis/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/5004-6f9787770b3b1c31.js",
+      "static/chunks/app/courses/technical-analysis/page-6f036dd074b80af5.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/app/page-58738264cdbd22f4.js"
+    ],
+    "/terms/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/terms/page-890941202b7e12bb.js"
+    ],
+    "/privacy/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/app/privacy/page-148125f4b503bdda.js"
+    ],
+    "/franchise/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/app/franchise/page-317543cb8f486e1b.js"
+    ],
+    "/schedule/page": [
+      "static/chunks/webpack-ca30c16aae5b297d.js",
+      "static/chunks/fd9d1056-1cc83186cc2bf43f.js",
+      "static/chunks/2117-709ace1af75e14ec.js",
+      "static/chunks/main-app-2ad113c37d51f344.js",
+      "static/chunks/2972-cdc8026622f29d97.js",
+      "static/chunks/app/schedule/page-8035d8c77ffcdaea.js"
+    ]
+  }
 }

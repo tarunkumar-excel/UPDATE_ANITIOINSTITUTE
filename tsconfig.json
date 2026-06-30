@@ -17,5 +17,5 @@
     "paths": { "@/*": ["./src/*"] }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
-  "exclude": ["node_modules"]
+"exclude": ["node_modules", "app_OLD_BACKUP", "lib_OLD_BACKUP", "components_OLD_BACKUP", "data_OLD_BACKUP"]
 }
